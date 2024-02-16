@@ -1,0 +1,8 @@
+/node_modules/
+.env
+request-handler/.env
+vercel-build/.env
+vercel-deploy/.env
+request-handler/node_modules
+vercel-build/node_modules
+vercel-deploy/node_modules
